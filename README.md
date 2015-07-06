@@ -1,4 +1,4 @@
 node-draw
 =========
 
-In The Foundry's Nuke software, draws a low-rez copy Read node in the Node Graph using Constant nodes as pixels.
+Draws a low-rez copy of an image (provided by a Read node) in the Node Graph using Constant nodes as pixels.
